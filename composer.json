@@ -17,6 +17,8 @@
     "allansun/openapi-parser": "^2.1.4"
   },
   "autoload": {
-    "Ebay\\Commerce\\Media\\": "/src"
+    "psr-4": {
+      "Ebay\\Commerce\\Media\\": "/src"
+    }
   }
 }
